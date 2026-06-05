@@ -382,14 +382,29 @@ xss-toolkit/
 
 > _Add screenshots of your dashboard here after deployment._
 
-| Dashboard | Scanner | C2 Listener |
-|-----------|---------|-------------|
-| ![Dashboard](./assets/Dashboard.png) | ![Scanner](#) | ![C2](#) |
+<p align="center">
+  <img src="assets/Dashboard.png" width="700">
+</p>
 
-| Payload Library | Reports | Settings |
-|-----------------|---------|----------|
-| ![Payloads](#) | ![Reports](#) | ![Settings](#) |
+<p align="center">
+  <img src="assets/Payloads.png" width="700">
+</p>
 
+<p align="center">
+  <img src="assets/Profile.png" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/Reports.png" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/Scanner.png" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/login.png" width="700">
+</p>
 ---
 
 ## 🔧 Configuration
