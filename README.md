@@ -378,9 +378,9 @@ xss-toolkit/
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-###Dashboard
+### Dashboard
 
 <p align="center">
   <img src="assets/Dashboard.png" width="700">
