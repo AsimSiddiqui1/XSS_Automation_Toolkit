@@ -381,27 +381,31 @@ xss-toolkit/
 ## Screenshots
 
 ### Dashboard
-
 <p align="center">
   <img src="assets/Dashboard.png" width="700">
 </p>
 
+### Payloads
 <p align="center">
   <img src="assets/Payloads.png" width="700">
 </p>
 
+### Profile
 <p align="center">
   <img src="assets/Profile.png" width="700">
 </p>
 
+### Reports
 <p align="center">
   <img src="assets/Reports.png" width="700">
 </p>
 
+### Scanner
 <p align="center">
   <img src="assets/Scanner.png" width="700">
 </p>
 
+### Login
 <p align="center">
   <img src="assets/login.png" width="700">
 </p>
