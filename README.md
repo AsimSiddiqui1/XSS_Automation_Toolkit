@@ -384,7 +384,7 @@ xss-toolkit/
 
 | Dashboard | Scanner | C2 Listener |
 |-----------|---------|-------------|
-| ![Dashboard](#) | ![Scanner](#) | ![C2](#) |
+| ![Dashboard](./assets/dashboard.png) | ![Scanner](#) | ![C2](#) |
 
 | Payload Library | Reports | Settings |
 |-----------------|---------|----------|
