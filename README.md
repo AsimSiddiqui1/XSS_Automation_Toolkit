@@ -380,7 +380,7 @@ xss-toolkit/
 
 ## 🖼️ Screenshots
 
-> _Add screenshots of your dashboard here after deployment._
+#Dashboard
 
 <p align="center">
   <img src="assets/Dashboard.png" width="700">
