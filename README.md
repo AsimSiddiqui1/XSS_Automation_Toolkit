@@ -382,7 +382,7 @@ xss-toolkit/
 
 ### Dashboard
 <p align="center">
-  <img src="assets/Dashboard.png" width="700">
+  <img src="assets/Dashboard.jpg" width="700">
 </p>
 
 ### Payloads
